@@ -91,7 +91,6 @@ namespace SVPP_CS_Lab1_task1_calculator
             op = null;
             TextBox_Numbers.Text = "0";
         }
-
         /// <summary>
         ///  Обработчик нажатия цифровых кнопок
         /// </summary>
